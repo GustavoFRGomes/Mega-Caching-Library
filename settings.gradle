@@ -1,0 +1,5 @@
+rootProject.name = "Mega Caching Library"
+include ':app'
+include ':mcl'
+include ':mcl:domain'
+include ':mcl:data'
